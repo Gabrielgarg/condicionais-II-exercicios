@@ -13,4 +13,4 @@ if(idade >= 18){
 }
 
 
-console.log("teste 3")
+//console.log("teste 3")
